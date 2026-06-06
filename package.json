@@ -1,0 +1,11 @@
+{
+  "name": "js-programming-constructs-practice",
+  "version": "1.0.0",
+  "description": "BridgeLabz JavaScript Programming Constructs Practice Problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "node 01-sequence/01-single-digit-random.js"
+  },
+  "author": "Hari Karthick",
+  "license": "ISC"
+}
